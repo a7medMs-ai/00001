@@ -8,3 +8,4 @@ class LocalizationItem(scrapy.Item):
     word_count = scrapy.Field()
     segments = scrapy.Field()
     has_media = scrapy.Field()
+    
